@@ -13,8 +13,16 @@
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ziesler.rocks/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
+&lt;p&gt;Heya I&amp;rsquo;m Freya, but simply go by my surname &amp;ldquo;Ziesler&amp;rdquo; here. This website is supposed to be
+my semi professional outlet with my own thoughts and ideas, mostly focused but not limited
+to computer science / programming topics.&lt;/p&gt;
+&lt;p&gt;Enjoy your stay.&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
+&lt;p&gt;Heya I&amp;rsquo;m Freya, but simply go by my surname &amp;ldquo;Ziesler&amp;rdquo; here. This website is supposed to be
+my semi professional outlet with my own thoughts and ideas, mostly focused but not limited
+to computer science / programming topics.&lt;/p&gt;
+&lt;p&gt;Enjoy your stay.&lt;/p&gt;
 </content>
     </item>
     
@@ -25,9 +33,11 @@
       
       <guid>https://ziesler.rocks/showcase/</guid>
       <description>&lt;h1 id=&#34;showcase-of-projects&#34;&gt;Showcase of projects&lt;/h1&gt;
-&lt;p&gt;Working on it.&lt;/p&gt;</description>
+&lt;p&gt;Working on it. Either my projects are not open due to an NDA, or they&amp;rsquo;re not
+fully developed / release worthy.&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;showcase-of-projects&#34;&gt;Showcase of projects&lt;/h1&gt;
-&lt;p&gt;Working on it.&lt;/p&gt;
+&lt;p&gt;Working on it. Either my projects are not open due to an NDA, or they&amp;rsquo;re not
+fully developed / release worthy.&lt;/p&gt;
 </content>
     </item>
     

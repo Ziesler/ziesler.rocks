@@ -5,68 +5,6 @@
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Ziesler</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 30 Nov 2024 14:52:54 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Testsix</title>
-      <link>http://localhost:1313/posts/testsix/</link>
-      <pubDate>Sat, 30 Nov 2024 14:52:54 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/testsix/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Testfive</title>
-      <link>http://localhost:1313/posts/testfive/</link>
-      <pubDate>Sat, 30 Nov 2024 14:52:52 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/testfive/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Testfour</title>
-      <link>http://localhost:1313/posts/testfour/</link>
-      <pubDate>Sat, 30 Nov 2024 14:52:49 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/testfour/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Testthree</title>
-      <link>http://localhost:1313/posts/testthree/</link>
-      <pubDate>Sat, 30 Nov 2024 14:52:46 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/testthree/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Testtwo</title>
-      <link>http://localhost:1313/posts/testtwo/</link>
-      <pubDate>Sat, 30 Nov 2024 14:52:36 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/testtwo/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Sat, 30 Nov 2024 14:52:32 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;</description>
-      <content>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
-</content>
-    </item>
-    
+    <language>en</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

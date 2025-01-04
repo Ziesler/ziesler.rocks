@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scheduling on Ziesler</title>
+    <link>http://localhost:1313/tags/scheduling/</link>
+    <description>Recent content in Scheduling on Ziesler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2024 23:05:51 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/scheduling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimisation tales Part 1</title>
+      <link>http://localhost:1313/posts/optimisationtalesp1/</link>
+      <pubDate>Sun, 01 Dec 2024 23:05:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/optimisationtalesp1/</guid>
+      <description>&lt;h1 id=&#34;introduction-and-disclaimer&#34;&gt;Introduction and disclaimer&lt;/h1&gt;
+&lt;p&gt;Right from the start, for legal reasons this story is entirely made up
+and all possible hints to real or legal entities are completely fictional.&lt;/p&gt;
+&lt;p&gt;With that out of the way&amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;how-did-we-get-here&#34;&gt;How did we get here?&lt;/h1&gt;
+&lt;p&gt;Well, to begin this story I should mention that I&amp;rsquo;ve had an apprenticeship
+for around 2 years, during which we got handed a project involving another
+company, precisely a steel manufacturer.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;introduction-and-disclaimer&#34;&gt;Introduction and disclaimer&lt;/h1&gt;
+&lt;p&gt;Right from the start, for legal reasons this story is entirely made up
+and all possible hints to real or legal entities are completely fictional.&lt;/p&gt;
+&lt;p&gt;With that out of the way&amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;how-did-we-get-here&#34;&gt;How did we get here?&lt;/h1&gt;
+&lt;p&gt;Well, to begin this story I should mention that I&amp;rsquo;ve had an apprenticeship
+for around 2 years, during which we got handed a project involving another
+company, precisely a steel manufacturer.&lt;/p&gt;
+&lt;p&gt;As you might be able to imagine, any manufacturer of goods also needs and
+has a pipeline for the manufacturing process. To give you an easy example,
+a steel manufacturer can produce bridges and planes. Some parts like screws
+might be needed in both, but they each still require parts that are specific
+to them.&lt;/p&gt;
+&lt;p&gt;So you essentially have a list of materials, which can be converted / made
+into different materials and so on, until you have a final product or rather
+products.&lt;/p&gt;
+&lt;p&gt;Now your task is to optimise the pipeline in such a way, that it accounts for
+prioritisation of tasks, reducing ultimatively the time spent resulting in lower
+energy costs, as well as executing processes in the most parallel way.&lt;/p&gt;
+&lt;p&gt;Ohh yeah and they don&amp;rsquo;t generally make their profits from standard parts, but
+custom manufactured ones&amp;hellip;&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;http://localhost:1313/images/staticchaos.jpg&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: black;&#34; &gt;My mind back then ||| Photo taken by Timur Kozmenko from Unsplash&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;first-steps&#34;&gt;First steps&lt;/h1&gt;
+&lt;p&gt;With all that information, you might think I&amp;rsquo;d have done a problem analysis,
+methodically approach a solution, or do literally anything else other than
+directly working on a simulation with different materials, processes and
+machines along with the properties for each&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Well, jokes on you. Back then (1 year as of writing) that&amp;rsquo;s exactly what I did.
+
+
+
+  &lt;div class=&#34;collapsable-code&#34;&gt;
+    &lt;input id=&#34;1&#34; type=&#34;checkbox&#34;  /&gt;
+    &lt;label for=&#34;1&#34;&gt;
+      &lt;span class=&#34;collapsable-code__language&#34;&gt;C&amp;#43;&amp;#43;&lt;/span&gt;
+      &lt;span class=&#34;collapsable-code__title&#34;&gt;The grand simulation&lt;/span&gt;
+      &lt;span class=&#34;collapsable-code__toggle&#34; data-label-expand=&#34;Show&#34; data-label-collapse=&#34;Hide&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+    &lt;pre class=&#34;language-C&amp;#43;&amp;#43;&#34; &gt;&lt;code&gt;
+    
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+
+&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
